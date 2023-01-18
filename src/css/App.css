@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+div#root {
+  height: 100%; /* remove this line to see div.app is no more 100% height */
+  
+}
+.backGround {
+  height: 100%;
+}
+
+.startPage {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.backGround {
+  height: 100%;
+  width: 100%;
+  
+ background-color: #F5F7FB;
+}
+
+.blob1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: rotate(-180deg);
+  z-index: 1;
+}
+
+.blob2 {
+  z-index: 1;
+  position: absolute;
+  transform: rotate(-180deg);
+  bottom: 0;
+}
+
+.questionsRendered {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
