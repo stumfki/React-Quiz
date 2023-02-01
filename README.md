@@ -1,5 +1,9 @@
 **React Quiz Application Documentation**
 
+**Preview of the app:**
+
+https://tenziesgamedindobrnjic.netlify.app/
+
 **Introduction:**
 
 The React Quiz Application is a simple and interactive application that allows users to test their knowledge by answering a series of random questions. The questions are obtained by making an API call to a questions database and the application displays 5 questions to the user.
