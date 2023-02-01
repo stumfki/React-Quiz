@@ -32,4 +32,4 @@ JavaScript for implementing the logic and functionality of the application.
 
 **Conclusion:**
 
-The React Quiz Application is a simple and effective way for users to test their knowledge on a variety of topics. It is easy to use and provides an engaging experience for users. By making use of the latest technologies, the application delivers a smooth and responsive user experience.
+The React-Quiz Application is a simple and effective way for users to test their knowledge on a variety of topics. It is easy to use and provides an engaging experience for users. By making use of the latest technologies, the application delivers a smooth and responsive user experience.
