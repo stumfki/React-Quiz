@@ -50,3 +50,55 @@ div#root {
   justify-content: center;
   align-items: center;
 }
+
+@media only screen and (max-width: 420px) {
+ 
+  .questionCont h1 {
+    font-size: 10px !important;
+  }
+
+  .question {
+    width: 70px;
+  }
+  
+  
+
+
+}
+
+
+
+
+@media only screen and (min-width: 1200px) {
+  .checkAnswers {
+    font-size: 20px !important;
+   height: 80px;
+   width: 200px;
+  }
+
+  .questionsRendered {
+    padding-top: 10%;
+  }
+
+  .questionCont {
+    width: 70% !important;
+  }
+  
+  
+
+
+}
+
+@media only screen and (max-width: 310px) {
+
+
+
+}
+
+@media only screen and (min-width: 940px) {
+  
+  
+ 
+
+
+}
